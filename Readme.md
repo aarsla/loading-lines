@@ -49,4 +49,4 @@ Having fun with Spring Boot.
 
 ### AUTHOR
 
-[Aid Arslanagic](https://github.com/aarsla)
+[aarsla](https://github.com/aarsla)
