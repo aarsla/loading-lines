@@ -8,7 +8,7 @@ Comes pre-packaged with original [Sim City Messages](https://gamefaqs.gamespot.c
 
 ```bash
 $ mvn package
-$ java -jar target/loadinglines-0.0.1-SNAPSHOT.jar
+$ java -jar target/loading-lines-0.0.1-SNAPSHOT.jar
 ```
 
 ### DOCKER
