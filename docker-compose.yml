@@ -1,0 +1,7 @@
+version: '3'
+services:
+  loading-lines:
+    image: aarsla/loading-lines
+    ports:
+      - "9000:9000"
+      - "9001:9001"
