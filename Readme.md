@@ -15,7 +15,7 @@ $ java -jar target/loadinglines-0.0.1-SNAPSHOT.jar
 
 ```bash
 $ docker pull aarsla/loading-lines
-$ docker run -p 9000:9000/tcp -p 9001:9001/tcp loadinglines
+$ docker run -p 9000:9000/tcp -p 9001:9001/tcp loading-lines
 ```
 
 ### ENDPOINTS
