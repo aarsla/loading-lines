@@ -2,7 +2,7 @@
 
 Random "Please wait..." messages to keep your users entertained.
 
-Comes pre-packaged with original Sim City Messages and a de-luxe set of Yoda quotes.
+Comes pre-packaged with original [Sim City Messages](https://gamefaqs.gamespot.com/pc/561176-simcity-4/faqs/22135) and a de-luxe set of [Yoda quotes](http://www.planetofsuccess.com/blog/2017/wise-yoda-quotes/).
 
 ### INSTALLATION
 
