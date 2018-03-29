@@ -1,24 +1,24 @@
-***Loading... Lines***
+##Loading... Lines
 
 Random "Please wait..." messages to keep your users entertained.
 
 Comes pre-packaged with original Sim City Messages and a de-luxe set of Yoda quotes.
 
-***INSTALLATION***
+###INSTALLATION
 
 ```bash
 $ mvn package
 $ java -jar target/loadinglines-0.0.1-SNAPSHOT.jar
 ```
 
-***DOCKER***
+###DOCKER
 
 ```bash
 $ docker pull aarsla/loadinglines
 $ docker run -p 9000:9000/tcp -p 9001:9001/tcp loadinglines
 ```
 
-***ENDPOINTS***
+###ENDPOINTS
 
 |               |               |
 | ------------- |:--------------|
@@ -30,23 +30,23 @@ $ docker run -p 9000:9000/tcp -p 9001:9001/tcp loadinglines
 
 All endpoints support up to 50 messages (/message/:n).
 
-***METRICS***
+###METRICS
 
 |               |               |
 | ------------- |:--------------|
 | /status      | Health & Metrics |
 
-***EXAMPLES***
+###EXAMPLES
 
 ```bash
 $ curl http://localhost:9000/message
     {"message": "Preparing Spline Graphs"}
 ```
 
-***DESCRIPTION***
+###DESCRIPTION
 
 Having fun with Spring Boot.
 
-***AUTHOR***
+###AUTHOR
 
 [Aid Arslanagic](https://github.com/aarsla)
