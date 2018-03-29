@@ -448,7 +448,7 @@ INSERT INTO quote (id, quote, author_id) VALUES
   (10026,	'Use your feelings, Obi-Wan, and find him you will.', 10001),
   (10027,	'Attachment leads to jealously. The shadow of greed, that is.', 10001),
   (10028,	'Destroy the Sith we must.', 10001),
-  (10029,	'Ahhh! ’s little friend you seek!', 10001),
+  (10029,	'Ahhh! Yoda’s little friend you seek!', 10001),
   (10030,	'Mudhole? Slimy? My home this is!', 10001),
   (10031,	'May the Force be with you.', 10001),
   (10033,	'Faith in your new apprentice, misplaced may be. As is your faith in the dark side of the Force.', 10001),
